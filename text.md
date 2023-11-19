@@ -32,7 +32,7 @@ _Italic Text_
 | --- | --- |
 | musaab | 21 |
 
-[] Task 1
-[x] Task 2
+- [] Task 1
+- [x] Task 2
 
 > Hello world!
