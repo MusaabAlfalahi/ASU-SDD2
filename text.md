@@ -31,5 +31,3 @@ _Italic Text_
 | name | age |
 | --- | --- |
 | musaab | 21 |
-
-
