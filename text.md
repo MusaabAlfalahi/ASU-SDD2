@@ -23,3 +23,5 @@ _Italic Text_
 ![Haaland Tom](./Haaland.jpg)
 
 [Github](https://github.com/MusaabAlfalahi)
+
+`Scanner s = new Scanner(System.in);`
