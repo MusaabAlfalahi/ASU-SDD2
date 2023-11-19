@@ -31,6 +31,8 @@ _Italic Text_
 | name | age |
 | --- | --- |
 | musaab | 21 |
+| --- | --- |
+| laith | 26 |
 
 - [ ] Task 1
 - [x] Task 2
