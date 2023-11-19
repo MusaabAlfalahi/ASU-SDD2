@@ -19,3 +19,5 @@ _Italic Text_
 
 - bullet 1
 - bullet 2
+
+![Haaland Tom](./Haaland.jpg)
