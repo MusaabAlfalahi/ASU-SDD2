@@ -27,3 +27,7 @@ _Italic Text_
 `Scanner s = new Scanner(System.in);`
 
     int number = s.nextInt();
+
+| name | age |
+| --- | --- |
+| musaab | 21 |
