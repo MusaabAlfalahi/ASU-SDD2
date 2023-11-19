@@ -1,3 +1,5 @@
+# <ins> Text.md </ins>
+
 # heading 1
 
 spodjfaskdbnakjldnckljadbckad
@@ -23,6 +25,8 @@ _Italic Text_
 ![Haaland Tom](./Haaland.jpg)
 
 [Github](https://github.com/MusaabAlfalahi)
+
+<a href="https://github.com/MusaabAlfalahi">My GitHub profile using HTML element in md</a>
 
 `Scanner s = new Scanner(System.in);`
 
