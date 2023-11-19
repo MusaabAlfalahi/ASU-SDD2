@@ -22,4 +22,4 @@ _Italic Text_
 
 ![Haaland Tom](./Haaland.jpg)
 
-![Github](https://github.com/MusaabAlfalahi)
+[Github](https://github.com/MusaabAlfalahi)
