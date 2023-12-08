@@ -1,3 +1,5 @@
+# <ins> Text.md </ins>
+
 # heading 1
 
 spodjfaskdbnakjldnckljadbckad
@@ -24,6 +26,8 @@ _Italic Text_
 
 [Github](https://github.com/MusaabAlfalahi)
 
+<a href="https://github.com/MusaabAlfalahi">My GitHub profile using HTML element in md</a>
+
 `Scanner s = new Scanner(System.in);`
 
     int number = s.nextInt();
@@ -32,6 +36,7 @@ _Italic Text_
 | --- | --- |
 | musaab | 21 |
 | laith | 26 |
+| Uncle Yousef | 21 |
 
 - [ ] Task 1
 - [x] Task 2
